@@ -186,8 +186,8 @@ Users can filter records dynamically to investigate specific employee groups or 
 ## Dashboard Preview
 
 ### HR Analytics Dashboard
-![Dashboard Screenshot](images/hr-dashboard-preview.png)
-
+![Dashboard Screenshot](hr-dashboard-preview.png)
+![Dashboard Screenshot 2](hr-dashboard-preview-2.png)
 
 ## Key Insights Generated
 
